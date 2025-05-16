@@ -23,8 +23,6 @@ CarrotAI-PRC-AirPrice 是一个基于 [MCP（Model Context Protocol）](https://
 ## 🚀 功能一览
 
 ### 1. 支持的API工具
-- `list_supported_cities()`
-    - 获取所有支持的城市列表
 - `get_ticket_price_by_date(start_city, end_city, date)`
     - 查询指定日期的机票价格
 - `get_all_ticket_prices(start_city, end_city, start_date, end_date)`
@@ -39,7 +37,6 @@ CarrotAI-PRC-AirPrice 是一个基于 [MCP（Model Context Protocol）](https://
 - 查询上海到北京的机票价格
 - 查询北京到上海的往返机票价格
 - 查询北京到上海本周最低机票价
-- 查询支持城市有哪些
 - 查询北京到广州5月1日的机票价格
 
 ---

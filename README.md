@@ -25,8 +25,6 @@ CarrotAI-PRC-AirPrice is a flight ticket price query service based on the [MCP (
 ## 🚀 Features
 
 ### 1. Supported API Tools
-- `list_supported_cities()`
-    - Get the list of all supported cities
 - `get_ticket_price_by_date(start_city, end_city, date)`
     - Query ticket price for a specific date
 - `get_all_ticket_prices(start_city, end_city, start_date, end_date)`
@@ -41,7 +39,6 @@ CarrotAI-PRC-AirPrice is a flight ticket price query service based on the [MCP (
 - Query flight price from Shanghai to Beijing
 - Query round-trip ticket price from Beijing to Shanghai
 - Query the lowest ticket price this week from Beijing to Shanghai
-- Query which cities are supported
 - Query ticket price from Beijing to Guangzhou on May 1st
 
 ---

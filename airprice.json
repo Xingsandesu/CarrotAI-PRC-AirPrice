@@ -2,7 +2,7 @@
     "id": "airprice",
     "icon": "🚄",
     "mcpServer": {
-      "url": "http://mcp.jintongshu.com/airprice",
+      "url": "http://127.0.0.1:20001/mcp",
       "env": {},
       "transportType": "streamable-http"
     },
