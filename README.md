@@ -1,3 +1,5 @@
+[简体中文 | Chinese](./README.zh-CN.md)
+
 # CarrotAI-PRC-AirPrice
 
 > 🚄 **Real-time Flight Ticket Price Query MCP Service for China**
