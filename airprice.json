@@ -1,0 +1,29 @@
+{
+    "id": "airprice",
+    "icon": "🚄",
+    "mcpServer": {
+      "url": "http://mcp.jintongshu.com/airprice",
+      "env": {},
+      "transportType": "streamable-http"
+    },
+    "translations": {
+      "zh": {
+        "name": "机票优惠信息查询",
+        "type": "实用工具",
+        "description": "查询中国主要城市间的实时机票价格、区间最低价和往返票价。支持城市列表、指定日期、区间查询。",
+        "usageGuide": "示例提示词: 查询北京到上海的机票价格/查询上海到北京的机票价格/查询北京到上海的往返机票价格/查询北京到上海本周最低机票价/支持城市有哪些/查询北京到广州5月1日的机票价格"
+      },
+      "en": {
+        "name": "Flight Ticket Price Query",
+        "type": "Utility Tool",
+        "description": "Query real-time, lowest, and round-trip flight ticket prices between major Chinese cities. Supports city list, specific date, and date range queries.",
+        "usageGuide": "Example prompts: Query flight price from Beijing to Shanghai/Query round-trip ticket price from Beijing to Shanghai/Query lowest ticket price this week from Beijing to Shanghai/Which cities are supported?/Query ticket price from Beijing to Guangzhou on May 1st"
+      },
+      "ja": {
+        "name": "航空券価格照会",
+        "type": "ユーティリティツール",
+        "description": "中国主要都市間のリアルタイム航空券価格・最安値・往復券価格を照会。対応都市リスト、指定日・期間での検索が可能。",
+        "usageGuide": "プロンプト例: 北京から上海への航空券価格を照会/北京から上海への往復航空券価格を照会/今週の北京から上海への最安値航空券を照会/対応都市は？/5月1日の北京から広州への航空券価格を照会"
+      }
+    }
+  } 
